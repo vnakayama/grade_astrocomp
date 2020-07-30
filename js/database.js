@@ -159,6 +159,6 @@ window.courses = [
         { name: "Projeto Final de Curso", credits: 0,code:'OVLX01', semester: 8, category: 1, workload: 60}, // 35
         { name: "Atividades Acad. Livre. Esc.", credits: 4, semester: 8, category: 1}, // 36
         { name: "Atividades Acad. Optativas", credits: 4, semester: 8, category: 1}, // 37
-        { name: "Ativ. Compl. Especiais", credits: 0, semester: 8, step: 15, category: 5, workload: 251}
+        { name: "Ativ. Curricular Extensão", credits: 251, semester: 8, step: 15, category: 5, workload: 251}
     ]
 ]
